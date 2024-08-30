@@ -1,0 +1,23 @@
+List bg=
+[
+  'assets/images/background/bg.jpg',
+  'assets/images/background/bg1.jpeg',
+  'assets/images/background/bg2.jpeg',
+  'assets/images/background/bg3.jpeg',
+  'assets/images/background/bg4.jpeg',
+  'assets/images/background/bg5.webp',
+  'assets/images/background/bg6.jpeg',
+  'assets/images/background/bg7.jpeg',
+  'assets/images/background/bg8.jpeg',
+  'assets/images/background/bg9.jpeg',
+ 'assets/images/background/bg10.jpeg',
+  'assets/images/background/bg11.jpeg',
+ 'assets/images/background/bg12.jpg',
+  'assets/images/background/bg13.jpeg',
+  'assets/images/background/bg14.jpeg',
+  'assets/images/background/bg15.jpeg',
+  'assets/images/background/bg16.jpeg',
+  'assets/images/background/bg17.jpeg',
+  'assets/images/background/bg18.jpeg',
+  'assets/images/background/bg19.jpeg',
+];
