@@ -8,3 +8,7 @@ Quotes Hub is an inspiring quotes app that brings daily motivation to your finge
 <img src="https://github.com/user-attachments/assets/1d1b2c27-9ef9-4612-a797-4a602d760e93" height=35% width=22%>
 <img src="https://github.com/user-attachments/assets/0ddcc4b9-58ba-4636-963f-df7e1d72f678" height=35% width=22%>
 
+
+
+https://github.com/user-attachments/assets/5ff91a51-8480-4138-814c-9a9f789440f1
+
